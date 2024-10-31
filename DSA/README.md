@@ -1,2 +1,0 @@
-# Udacity Data Structures and Algorithms Nanodegree Notes
-This repo is a compilation of my notes from taking the DSA Nanodegree course through Udacity. This includes code blocks, comments, and project work.
